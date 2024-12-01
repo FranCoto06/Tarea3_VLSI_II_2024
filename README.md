@@ -1,10 +1,11 @@
 
 ![Logo](/Imagenes/Firma_TEC.png)
 # Tarea 3
-Autores:
+Integrantes del grupo:
 
-* Jeremy Cordoba Wright
-* Irán Medina Aguilar
+* Francisco Coto Alcázar
+* Bernal Zamora Barrantes 
+* Andres Rojas Barboza 
 
 ## Introducción
 
